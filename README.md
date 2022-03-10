@@ -674,7 +674,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [x] erase(index) - removes node at given index
         - [x] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
+        - [x] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
     - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
@@ -735,7 +735,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
     - [ ] [blueprint](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
-    - [ ] Implement:
+    - [x] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
@@ -809,8 +809,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] delete_tree
         - [x] is_in_tree // returns true if given value exists in the tree
         - [x] get_height // returns the height in nodes (single node's height is 1)
-        - [ ] get_min   // returns the minimum value stored in the tree
-        - [ ] get_max   // returns the maximum value stored in the tree
+        - [x] get_min   // returns the minimum value stored in the tree
+        - [x] get_max   // returns the maximum value stored in the tree
         - [ ] is_binary_search_tree
         - [x] delete_value
         - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
