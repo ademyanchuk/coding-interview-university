@@ -138,6 +138,8 @@ software development/engineering roles.
     - [Optional Extra Topics & Resources](#optional-extra-topics--resources)
   - [Why use it?](#why-use-it)
   - [How to use it](#how-to-use-it)
+    - [If you don't want to use git](#if-you-dont-want-to-use-git)
+    - [If you're comfortable with git](#if-youre-comfortable-with-git)
   - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
   - [A Note About Video Resources](#a-note-about-video-resources)
   - [Choose a Programming Language](#choose-a-programming-language)
@@ -206,6 +208,8 @@ software development/engineering roles.
     - [Optional Extra Topics & Resources](#optional-extra-topics--resources)
   - [Why use it?](#why-use-it)
   - [How to use it](#how-to-use-it)
+    - [If you don't want to use git](#if-you-dont-want-to-use-git)
+    - [If you're comfortable with git](#if-youre-comfortable-with-git)
   - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
   - [A Note About Video Resources](#a-note-about-video-resources)
   - [Choose a Programming Language](#choose-a-programming-language)
@@ -742,7 +746,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 - ### Binary search
     - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [x] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [x] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
     - [x] [blueprint](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
     - [x] Implement:
         - binary search (on sorted array of integers)
@@ -846,10 +850,10 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] get_max - returns the max item, without removing it
         - [x] get_size() - return number of elements stored
         - [x] is_empty() - returns true if heap contains no elements
-        - [ ] extract_max - returns the max item, removing it
-        - [ ] sift_down - needed for extract_max
+        - [x] extract_max - returns the max item, removing it
+        - [x] sift_down - needed for extract_max
         - [ ] remove(x) - removes item at index x
-        - [ ] heapify - create a heap from an array of elements, needed for heap_sort
+        - [x] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
 
 ## Sorting
