@@ -844,7 +844,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [x] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
     - [x] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
-    - [ ] Implement a max-heap:
+    - [x] Implement a max-heap:
         - [x] insert
         - [x] sift_up - needed for insert
         - [x] get_max - returns the max item, without removing it
@@ -854,7 +854,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] sift_down - needed for extract_max
         - [ ] remove(x) - removes item at index x
         - [x] heapify - create a heap from an array of elements, needed for heap_sort
-        - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
+        - [x] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
 
 ## Sorting
 
@@ -908,7 +908,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [Implementation (C)](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
     - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
-- [ ] Implement:
+- [x] Implement:
     - [x] Mergesort: O(n log n) average and worst case
     - [x] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
